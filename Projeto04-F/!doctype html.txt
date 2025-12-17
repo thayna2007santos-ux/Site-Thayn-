@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang= PT-BR>
+	<head>
+	<title> Duelos </title>
+	<style>
+table  {
+border: 1px solid blue;
+border-spacing: 0px;
+width: 100%;
+height: 100%;
+text-align: center;
+}
+td {
+border:1px solid blue;
+}
+h1 {
+color: #470303;
+font-size: 45pt;
+font-family: arial;
+}
+a { 
+text-decoration: none;
+color: #330c2e;
+font-size: 10pt;
+font-family: Candara;
+}
+body {
+background-image: url("imagens/fundo.jpg");
+}
+#menu {
+	background-color: blue;
+}
+.rodape {
+	background-color:#79aded
+	}
+.rodape2 {
+	background-color: #2483B3
+
+	}
+
+	</style>
+	</head>
+			<body>
+			<h1> <font size=12 color=#7D1818 face=Broadway> <center> Duelos </center> </font> </h1>
+			<h2> <font size=4 color=#ffffff face=Candara><center> Bem vindo(a) ao Duelos! Neste site, você poderá votar em enquetes para decidir qual personagem da Cartoon Network venceria em um duelo mano a mano. Que comece o combate!</center> </font> </h2>
+
+<table border=1>
+<tr> <center> <td class=rodape2 colspan=4> <a> <font size=5 color=#7D1818 face=Bodoni MT> Menu  </font></a> </td> 
+<tr><td class=rodape2> <a href=https://www.youtube.com/@BRCartoonNetworkvideos target=_blank> <img src=imagens/youtoba.png width=40 title=Youtube> </td>
+<td class=rodape2> <a href=https://www.instagram.com/cartoonnetworkbrasil/?hl=pt-br target=_blank> <img src=imagens/insta.png width=40 title=Instagram> </td>
+<td class=rodape2> <a href=https://x.com/cartoonnetwork? target=_blank> <img src=imagens/x.png width=40 title= X> </td>
+<td class=rodape2> <a href=https://cartoonnetwork.fandom.com/wiki/Cartoon_Network_Wiki target=_blank> <img src=imagens/fandom.png width=70 title=Wiki> </td> </tr>
+
+</table>
+<br> <br> <br>
+
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 1 </b></center> </p>
+
+<table border=1>
+
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/alienx.png width=200 title=Alien_X> </td> 
+<td class=rodape> <img src=imagens/blackhat.png width=200 title=BlackHat> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT> Os poderes do Alien X são praticamente ilimitados, incluindo a manipulação da realidade, espaço e tempo, a capacidade de criar e destruir universos, e imortalidade. O Alien X também pode clonar-se, usar telecinese e teletransporte, e possui resistência a apagamento da existência. A fraqueza original era a necessidade de consentimento das três personalidades (Ben, Bellicus e Serena), mas Ben aprendeu a contornar isso para usar todo o seu potencial. </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Os poderes de Black Hat, do desenho "Villainous", incluem teletransporte, metamorfose, superforça, manipulação de sombras e fogo, manipulação da realidade e absorção de almas. Ele também pode quebrar a quarta parede e possui habilidades que lhe permitem distorcer a realidade e criar ilusões complexas. Sua força e poderes são tão grandes que ele é capaz de se equiparar a outras forças cósmicas e até destruir o universo. </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 2 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/liti.png width=200 title=Lich> </td> 
+<td class=rodape> <img src=imagens/puroosso.png width=200 title=Puro_Osso> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT> O Lich possui uma gama de poderes profanos, incluindo necromancia, controle da mente, a capacidade de conjurar chamas verdes, exalar um gás sugador de vida, e um poder destrutivo que causa apodrecimento de seres vivos. Sua imortalidade e a habilidade de possessão de outros seres também o tornam um dos vilões mais poderosos de "Hora de Aventura". </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Puro Osso, o personagem da série As Terríveis Aventuras de Billy e Mandy, é a personificação da morte e seus poderes incluem a manipulação da morte e a coleta de almas. Ele pode invocar criaturas do submundo, levá-las para o "Além", e possui mortalidade, sabendo tudo sobre a morte. </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 3 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/spear.png width=400 title=Spear> </td> 
+<td class=rodape> <img src=imagens/saltitao.png width=200 title=Saltitão> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT>Spear, de Primal, possui principalmente habilidades físicas aprimoradas, como força, velocidade e resistência sobre-humanas, além de ser um lutador e caçador habilidoso. Ele também demonstrou a capacidade de manipulação do fogo através de sua lança e uma fúria que aumenta suas capacidades de combate. Em situações extremas, ele pode ganhar uma força temporária e sobrenatural através do uso de soros como o "soro negro".  </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Os poderes do Saltitão incluem imortalidade (com a condição de fazer uma dança cerimonial anual), super força, conhecimento extenso sobre o mundo sobrenatural, e habilidades de combate e destreza. Ele também usa equipamentos como a Marreta e os Punhos da Justiça, que concedem super atributos. </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 4 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/windu.png width=200 title=Mace_Windu> </td> 
+<td class=rodape> <img src=imagens/greninjaa.png width=400 title=Greninja> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT> Mace Windu era um dos Jedi mais poderosos, conhecido por sua proficiência em combate com sabre de luz, especialmente através do estilo de luta único que ele criou, o Vaapad. O Vaapad lhe permitia canalizar a escuridão do oponente, usando-a como arma sem cair para o lado sombrio. Além de suas habilidades com o sabre, ele também possuía habilidades da Força, como telecinesia para mover objetos e levitar pessoas, controle mental e a capacidade de aprimorar suas habilidades físicas. </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Greninja tem como seus principais poderes o controle da água para criar armas ninja afiadas, alta velocidade de movimento e um ataque especial chamado Estrela de Ninja (Water Shuriken), que causa um dano rápido. Suas habilidades comuns são Torrent, que aumenta o poder dos golpes de água com vida baixa, e a habilidade secreta Protean, que muda o tipo do Greninja para o tipo do ataque usado, além da forma especial Ash-Greninja que aumenta todos os seus atributos.  </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 5 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/jake.png width=200 title=Jake> </td> 
+<td class=rodape> <img src=imagens/vilgax.png width=200 title=Vilgax> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT> Jake, de "Hora de Aventura", possui poderes elásticos que permitem esticar, deformar e moldar seu corpo de formas quase ilimitadas. Ele pode alterar seu tamanho e forma para se adaptar a qualquer situação, além de ter outras habilidades como a capacidade de reorganizar seus órgãos internos, um olfato aguçado e a capacidade de imaginar realidade. Seus poderes vieram de um ser alienígena, o que o torna parte-alienígena.  </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Vilgax tem super-força, alta resistência e agilidade, podendo disparar lasers dos olhos e transformar seus braços em tentáculos. Ele também é um exímio guerreiro com vasto conhecimento sobre tecnologia alienígena e tem capacidade de manipular energia e criar escudos e espadas de energia, além de poder se conectar e influenciar a tecnologia do Antitrix.  </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 6 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/omago.jpg width=200 title=Patolino,_o_Mago> </td> 
+<td class=rodape> <img src=imagens/golb.jpg width=300 title=Golb </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT>O Mago Patolino possui uma ampla gama de poderes mágicos, incluindo a manipulação de elementos como terra e fogo, a capacidade de invocar dragões e o uso de necromancia. Seus poderes também incluem a parada do tempo, a manipulação de campos de força, a flutuação e a capacidade de criar portais e voar. Além disso, ele tem poderes mais "cotidianos", como parar o trânsito, mudar canais de TV e esquentar comida fria. </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Golb, a personificação do Caos de Hora de Aventura, possui poderes como manipulação biológica, criação de portais, manipulação da realidade, e a capacidade de apagar a existência de seres e locais. Ele é um ser quase onipresente e atemporal, imune à morte, e sua fraqueza é a ordem e a harmonia, que podem abrir buracos em seu corpo e prejudicá-lo. </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 7 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/mamacoaranha.png width=200 title=Macaco_Aranha> </td> 
+<td class=rodape> <img src=imagens/rex.png width=200 title=Rex> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT> Os poderes do Macaco-Aranha incluem agilidade, força e resistência aprimoradas, a capacidade de escalar paredes e disparar teias da cauda, além de sentidos aguçados, especialmente a audição. Em sua forma suprema, ele ganha a capacidade de atirar teia pela boca e possui quatro patas extras nas costas, que são afiadas e servem para atacar, além de permitir locomoção mais rápida. </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Os poderes do Mutante Rex são a habilidade de manifestar armas e máquinas de seu próprio corpo, controlar nanites e curar outros E.V.Os (seres extraordinariamente mutantes). Ele tem controle total sobre seus nanites, o que lhe permite interagir com a tecnologia, curar doenças e mutações, e gerar armamentos complexos como a Big Fat Sword (B.F.S.) e o Sky Slyder.  </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 8 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/gigante.png width=200 title=Gigante_Supremo> </td> 
+<td class=rodape> <img src=imagens/white.png width=200 title=Diamante_Branco> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT>O Gigante Supremo possui super força, super velocidade, voo e controle da energia cósmica. Ele pode disparar raios cósmicos poderosos, criar discos cortantes de energia e formar tempestades cósmicas. Sua resistência física e a ataques de energia é extremamente alta, podendo sobreviver no vácuo do espaço e resistir a explosões cósmicas. </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>A Diamante Branco possui poderes de Gem padrão, como força, agilidade, regeneração e metamorfose, mas em um nível muito maior. Suas habilidades únicas incluem manipulação mental e de sonhos, telepatia, clarividência e a capacidade de irradiar auras de energia para controlar outras Gems, transformando-as em marionetes. Ela também pode disparar raios de energia e, com suas outras diamantes, reverter a corrupção.  </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 9 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/ravena.png width=200 title=Ravena> </td> 
+<td class=rodape> <img src=imagens/Trigon.png width=200 title=Trigon> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT>Os poderes da Ravena incluem empatia, telecinese, teletransporte, projeção astral (a capacidade de separar sua alma do corpo para viajar ou lutar), manipulação de sombras (criando armas e criaturas de escuridão) e telepatia. Como filha de um demônio, Ravena possui um grande poder demoníaco latente que pode ser liberado, resultando em um aumento drástico de suas habilidades, como manipulação da realidade e destruição em escala cósmica, mas ela se esforça para manter esse lado sombrio sob controle.   </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Trigon, o demônio pai da Ravena, possui vastos poderes místicos, incluindo manipulação da realidade, teletransporte, voo, força sobre-humana, controle mental e imortalidade. Ele pode projetar rajadas de energia, alterar sua forma, devorar almas, criar ilusões e controlar elementos como fogo e trevas. Sua natureza, feita de pura maldade, o torna um ser quase invencível, capaz de destruir planetas e alimentar-se da maldade do universo para se fortalecer. </font> </a> </td> </tr>
+ </table>
+<p> <center> <font size=5 color=#FF0000 face=Gadugi> <b> Duelo 10 </b></center> </p>
+<table border=1>
+<tr> <center> <td class=rodape colspan=2>  <img src=imagens/akuu.png width=200 title=Aku> </td> 
+<td class=rodape> <img src=imagens/titioavo.png width=200 title=Titio_Avô> </td></tr>
+<tr> <center> <td class=rodape colspan=2> <a> <font size=4 color=#7D1818 face=Bodoni MT> Os poderes de Aku, o "Demônio do Mal", incluem teletransporte, manipulação do tempo, superforça, manipulação de matéria, pirocinese, telecinese, e a capacidade de criar cópias de si mesmo. Ele também pode manipular o clima e criar tempestades, e é capaz de necromancia, animando cadáveres.  </font></a></td>
+<td class=rodape> <a> <font size=4 color=#7D1818 face=Bodoni MT>Os poderes do Titio Avô são quase ilimitados e são baseados na "Força Toon", um tipo de manipulação da realidade que quebra a lógica e a física do mundo real. Ele é um personagem extremamente poderoso, capaz de realizar feitos absurdos e aleatórios para ajudar as crianças.  </font> </a> </td> </tr>
+ </table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<footer>
+<p><center> <font size=4 color=#FF0000 face=Bodoni MT> Pedro Soares Siqueira Godoy Fontenele - Turma A </center>
+</footer>
+			</body>
+</html>
